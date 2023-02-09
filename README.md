@@ -6,6 +6,7 @@ Sample Todo .NET MAUI Blazor Hybrid Mobile App Targeting Android,iOS, ...
 
 - [x] Android
 - [x] iOS
+- [x] Maccatalyst
 - [x] Windows
 
 ## Features
