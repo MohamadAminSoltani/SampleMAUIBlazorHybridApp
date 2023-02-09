@@ -14,8 +14,8 @@ Sample Todo .NET MAUI Blazor Hybrid Mobile App Targeting Android,iOS, ...
 
 Dribble UI Implemented [Link](https://dribbble.com/shots/16046681-NFT-News-App)
 ## Preview
-![screen1](https://gist.github.com/MohamadAminSoltani/a7f74caa33b8471e70ad0306b8dd69f2/raw/caddac80871d728f62e14506b73e9f52f813b875/maui1.png)
-![screen2](https://gist.github.com/MohamadAminSoltani/a7f74caa33b8471e70ad0306b8dd69f2/raw/caddac80871d728f62e14506b73e9f52f813b875/maui2.png)
+![screen1](https://user-images.githubusercontent.com/37259423/217803297-44b9421a-c249-45a7-9c32-e1af439f638a.png)
+![screen2](https://user-images.githubusercontent.com/37259423/217803310-6d8b4ec6-dd26-4960-a33c-065e99eafec5.png)
 
 ## Implementation (in persian)
-* [Video](https://www.youtube.com/watch?v=xuBEt7p6BBk)
+* [tutorial](https://www.youtube.com/watch?v=xuBEt7p6BBk)
